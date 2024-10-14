@@ -1,7 +1,7 @@
 # 🌍 Google Developer On Campus - Usha mittal Institute of Technology
+---
 # <CONNECT  LEARN  GROW/>
 
-<!-- ![GDG Banner](https://your-banner-image-url.com)  Replace with a relevant banner image URL -->
 
 Welcome to the **GDG UMIT**! We're a community of developers, designers, and tech enthusiasts dedicated to sharing knowledge, fostering innovation, and building amazing things together. Whether you’re a seasoned developer or just starting out, you’ll find a home here!
 
