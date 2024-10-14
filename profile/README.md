@@ -1,10 +1,7 @@
-<img src="https://github.com/dsc-umit/dsc-umit/blob/main/banner-gdsc.png" alt="dsc-banner"><br>
-
 # 🌍 Google Developer On Campus - Usha Mittal Institute of Technology
 
 ## < CONNECT   LEARN   GROW />
-
-<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=gdsc-umit.gdsc-umit"> <img src="https://img.shields.io/github/followers/gdsc-umit?label=Follow&style=social)](https://github.com/gdsc-umit"></p> 
+ 
 
 Welcome to the **GDG UMIT**! We're a community of developers, designers, and tech enthusiasts dedicated to sharing knowledge, fostering innovation, and building amazing things together. Whether you’re a seasoned developer or just starting out, you’ll find a home here!
 
