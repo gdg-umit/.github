@@ -1,4 +1,4 @@
-# 🌍 Google Developer On Campus - Usha mittal Institute of Technology
+# 🌍 Google Developer On Campus - Usha Mittal Institute of Technology
 
 ## < CONNECT   LEARN   GROW />
 
