@@ -1,7 +1,10 @@
+<img src="https://github.com/dsc-umit/dsc-umit/blob/main/banner-gdsc.png" alt="dsc-banner"><br>
+
 # 🌍 Google Developer On Campus - Usha Mittal Institute of Technology
 
 ## < CONNECT   LEARN   GROW />
 
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=gdsc-umit.gdsc-umit"> <img src="https://img.shields.io/github/followers/gdsc-umit?label=Follow&style=social)](https://github.com/gdsc-umit"></p> 
 
 Welcome to the **GDG UMIT**! We're a community of developers, designers, and tech enthusiasts dedicated to sharing knowledge, fostering innovation, and building amazing things together. Whether you’re a seasoned developer or just starting out, you’ll find a home here!
 
@@ -24,22 +27,18 @@ We’re always looking for passionate individuals to join our community. Here’
 - **Attend Our Events**: Join us for meetups and workshops.
 - **Contribute to Our Projects**: Check out our GitHub repositories and contribute to open-source projects.
 
-## 🤝 Join Us
-To become a part of GDG [Your City Name], follow us on:
-
-- [Twitter](https://x.com/DscUmit)
-- [LinkedIn]([https://linkedin.com/company/gdg](https://www.linkedin.com/company/gdsc-umit))
-- [Instagram](https://www.instagram.com/gdg_umit)
-- [Facebook]([https://facebook.com/gdg](https://www.facebook.com/dsc.umit.3))
-  
-
-Visit our [GitHub](https://github.com/gdsc-umit) to see more!
-
-## 🌈 Code of Conduct
-We’re committed to creating a welcoming and inclusive community. Please read our [Code of Conduct](link-to-code-of-conduct) to understand our expectations.
-
-## 🌟 Thank You!
-Thank you for visiting the GDG UMIT profile! We’re excited to have you join us on this journey of learning, collaboration, and innovation. Let’s build the future together!
+<h3> 🤗Connect with us at ...</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/company/gdsc-umit/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="socials"/></a>
+  <a href="mailto:dsc.umit@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/dsc.umit@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="socials"/></a> 
+  <a href="https://www.instagram.com/gdsc_umit/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="socials"/></a> 
+  <a href="https://twitter.com/DscUmit" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="socials"/></a><br/><br/>
+  <a href="https://discord.gg/WxRDeAFxbu" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="socials"/></a> 
+  <a href="https://medium.com/dsc-umit" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="socials"/></a> 
+  <a href="https://www.facebook.com/dsc.umit.3" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="socials"/></a>
+</p>
+<h4> ✨Visit our <a href="https://gdsc-umit.netlify.app/" target="blank">WEBSITE</a> now! </h4>
+Also Visit our [GitHub](https://github.com/gdsc-umit) to see more!
 
 ---
 
