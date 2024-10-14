@@ -35,7 +35,6 @@ We’re always looking for passionate individuals to join our community. Here’
   <a href="https://www.facebook.com/dsc.umit.3" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="socials"/></a>
 </p>
 <h4> ✨Visit our <a href="https://gdsc-umit.netlify.app/" target="blank">WEBSITE</a> now! </h4>
-Also Visit our [GitHub](https://github.com/gdsc-umit) to see more!
 
 ---
 
